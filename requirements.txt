@@ -1,0 +1,4 @@
+cryptography
+mypy
+pytest
+ruff
