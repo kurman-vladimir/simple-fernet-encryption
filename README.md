@@ -14,7 +14,7 @@ Before using this script, ensure you have Python 3.13 or higher installed on you
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/kurman-vladimir/simple-fernet-encription.git
+   git clone https://github.com/kurman-vladimir/simple-fernet-encryption.git
     ```
 2. Navigate to the project directory:
 
