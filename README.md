@@ -19,7 +19,7 @@ Before using this script, ensure you have Python 3.13 or higher installed on you
 2. Navigate to the project directory:
 
     ```bash
-   cd simple-fernet-encription
+   cd simple-fernet-encryption
     ```
 3. Install the required dependencies:
 
